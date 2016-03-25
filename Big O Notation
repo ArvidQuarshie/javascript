@@ -1,0 +1,9 @@
+ A function's Big-O notation is determined by how it responds to different inputs. 
+ How much slower is it if we give it a list of 1000 things to work on instead of a list of 1 thing? 
+ def item_in_list(to_check, the_list):
+    for item in the_list:
+        if to_check == item:
+          return True
+    return False
+    Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. 
+    Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used
