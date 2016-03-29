@@ -1,3 +1,3 @@
 # javascript
 
-this is a java script html exercise file. 
+This is a repo for all javascript lessons and practices.
